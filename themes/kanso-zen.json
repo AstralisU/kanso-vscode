@@ -183,6 +183,13 @@
 			}
 		},
 		{
+			"name": "Keyword",
+			"scope": ["keyword"],
+			"settings": {
+				"foreground": "#8992A7"
+			}
+		},
+		{
 			"name": "Variable",
 			"scope": ["variable", "string constant.other.placeholder"],
 			"settings": {

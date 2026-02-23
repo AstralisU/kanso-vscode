@@ -182,6 +182,13 @@
 			"name": "Variable",
 			"scope": ["variable", "string constant.other.placeholder"],
 			"settings": {
+		{
+			"name": "Keyword",
+			"scope": ["keyword"],
+			"settings": {
+				"foreground": "#8992A7"
+			}
+		},
 				"foreground": "#22262D"
 			}
 		},
